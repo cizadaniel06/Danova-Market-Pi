@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    {
+      "source": "/.well-known/pi-validation-key",
+      "destination": "/well-known/pi-validation-key"
